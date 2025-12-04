@@ -1,6 +1,6 @@
-This repository was used to apply updates for https://fridg3.org, before it was migrated to a self-hosted web server.
+This repository was used to apply updates for https://fridg3.org, before it was migrated to a self-hosted web server. The new repository can be found at ashprids/fridg3.org.
 
-The new repository can be found here: https://github.com/ashprids/fridg3.org
+This older website can still be accessed at https://ashprids.github.io.
 
 ## Information
 This website is my personal internet homepage, serving as a frontend for my personal projects and ramblings. The website was made with nothing more than inspiration and a HTML IDE.
